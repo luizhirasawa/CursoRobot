@@ -22,10 +22,6 @@ A aplicação web a ser testada se chama Organo, e se trata de um site que possu
 - VS Code: IDE utilizada para desenvolvimento dos testes;
 - Google Chrome: navegador web utilizado para execução dos testes.
 
-## 📁 Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto inicial](https://github.com/CarowlCarvalho/projeto-curso-robot/blob/main/primeiro_teste.robot).
-
 ## 🛠️ Abrir e rodar o Organo
 
 Aqui vem um passo a passo para abrir e rodar o projeto.
